@@ -1,4 +1,4 @@
-const validation ()=>
+const validation = ()=>
   {
     return false;
   }
